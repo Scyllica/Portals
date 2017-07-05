@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Portals:jar">
+    <output-path>$PROJECT_DIR$/../../../Server B/plugins</output-path>
+    <root id="archive" name="Portals.jar">
+      <element id="module-output" name="Portals" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../Coding/IntellJ/spigot-1.11.2.jar" />
+    </root>
+  </artifact>
+</component>
